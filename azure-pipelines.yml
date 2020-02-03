@@ -4,6 +4,7 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core
 #---Wang Jing
 # Adding publish task by jing
+# Refactor common variables  by jing
 trigger:
 - '*'
 
